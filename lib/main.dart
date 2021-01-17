@@ -1,5 +1,3 @@
-import 'dart:ffi';
-
 import 'package:flutter/material.dart';
 import 'package:qrscanner/generatepage.dart';
 import 'package:qrscanner/scanpage.dart';
